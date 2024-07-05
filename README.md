@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ShopIt
 =======
 # Shop It - Online Clothes Store Project
