@@ -1,6 +1,4 @@
 
-# ShopIt
-=======
 # Shop It - Online Clothes Store Project
 
 Welcome to Shop It!
